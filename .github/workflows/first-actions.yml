@@ -1,4 +1,4 @@
-name: Github action pipeline
+name: Github action pipeline for python programme
 
 on: [push]
 
